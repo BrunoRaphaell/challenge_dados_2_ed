@@ -16,6 +16,13 @@ Então, vamos lá!
 
 <p>Nossa missão nesta primeira semana consiste em tratar e analisar a base de dados fornecida pela Novexus. O nosso objetivo é extrair insights relevantes que possam nos ajudar a compreender e reconhecer os motivos pelos quais os clientes estão deixando de utilizar os serviços da empresa. Para alcançar esse objetivo, vamos realizar algumas etapas como limpeza e organização dos dados, análise exploratória e criação de visualizações e gráficos para melhor compreensão, além de inserir as conclusões retiradas de cada gráfico.</p>
 
+<h2>2ª Semana: Construindo e otimizando modelos de machine learning
+📊</h2>
+
+Após revisar todas as avaliações realizadas durante a primeira semana, verifica-se que  uma abordagem viável para mitigar a evasão de clientes na Novexus é a implementação de um modelo capaz de categorizar os potenciais clientes que possam vir a encerrar seu vínculo com a empresa, com base em suas características.
+
+Nesta etapa do desafio, vamos construir modelos experimentais de machine learning e analisaremos suas métricas para decidir qual é o mais adequado para os dados em questão. Após selecionar o melhor modelo, de acordo com as métricas analisadas, otimizaremos seus hiperparâmetros para melhorar ainda mais o desempenho.
+
 <h2>Conheça as pessoas desafiantes </h2>
 
 <h3>Beatriz Magalhães Silva</h3>
